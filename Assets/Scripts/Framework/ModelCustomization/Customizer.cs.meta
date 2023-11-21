@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 888359a185d40054f81e1ff18a28111f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - assets: {fileID: 11400000, guid: 250f8ec7a3ad8454dbbfa43cb72e2579, type: 2}
+  - hair: {instanceID: 0}
+  - skin: {instanceID: 0}
+  - eye: {instanceID: 0}
+  - brow: {instanceID: 0}
+  - skinMaterial: {fileID: 2100000, guid: 46563c67b7fb8fc4399dc3238d078e1f, type: 2}
+  - hairMaterial: {fileID: 2100000, guid: feaf604d816bd514eab98a566c4b62e0, type: 2}
+  - eyeMaterial: {fileID: 2100000, guid: 4ee3a05def7fcb34c82a626fade7e2e4, type: 2}
+  - browMaterial: {fileID: 2100000, guid: 5bc574a0f2e472a46871ab1ce76c8480, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Scripts/Player/Abilities/Synergy/Slingshot.cs.meta
+guid: 588b58febae8afc42a201f57b9f6b47e
+=======
+guid: a560e9d85c1abba4ea3b3ce1cd2b5008
+>>>>>>> develop:Assets/Scripts/Framework/Knockback/CustomKnockback.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

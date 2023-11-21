@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Scripts/Player/Player Rotation/GetLookDirectoin.cs.meta
+guid: e41a3f740f51cac45a108ef471ccf546
+=======
+guid: aff50bd4bd8cf7049b4331f46262d80c
+>>>>>>> d9319ab5b905446b7e47a37f1ab9685f94824ce3:Assets/Scripts/Player/Abilities/Attack/GunRotation.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Scripts/Framework/Utils/TransformUtilities.cs.meta
+guid: 5f33159e9126754429fe852554021ba6
+=======
+guid: aba02f2d04ba7a4489d1e462f0507c39
+>>>>>>> develop:Assets/Scripts/Framework/Knockback/KnockbackSetting.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
